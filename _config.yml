@@ -1,0 +1,13 @@
+# _config.yml for GitHub Pages
+
+# Theme setting
+remote_theme: "jekyll/theme"
+
+# URL of your site
+url: "https://maddenmcpeek-sketch.github.io/Pokemon-infinite-Fusion"
+
+# Title of your site
+title: "Pokemon Infinite Fusion"
+
+# Other configurations
+baseurl: "/Pokemon-infinite-Fusion"
